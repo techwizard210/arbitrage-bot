@@ -1,0 +1,8 @@
+PRIVATE_KEY=
+ArbContract=
+DEX_SCREENER_API=https://api.dexscreener.com/latest/dex
+TARGET_TOKEN_ADDRESS=0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c
+TARGET_TOKEN_SYMBOL=WBNB
+TARGET_TOKEN_DECIMAL=18
+BLOCKCHAIN_PROVIDER=https://bsc-dataseed.binance.org/
+WEBSOCKET_PROVIDER=wss://bsc-ws-node.nariox.org:443

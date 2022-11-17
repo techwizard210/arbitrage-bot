@@ -1,0 +1,25 @@
+{
+  "name": "arbitrage-bot",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^0.1.8"
+  },
+  "dependencies": {
+    "@ethersproject/bignumber": "^5.6.2",
+    "@ethersproject/bytes": "^5.6.1",
+    "@ethersproject/contracts": "^5.6.2",
+    "@ethersproject/providers": "^5.6.8",
+    "@ethersproject/units": "^5.6.1",
+    "@ethersproject/wallet": "^5.6.2",
+    "axios": "^0.27.2",
+    "bunrest": "^1.0.5",
+    "cors": "^2.8.5",
+    "ethers": "^5.6.9",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "serve-static-bun": "^0.2.0",
+    "socket.io": "^4.5.1",
+    "web3": "^1.7.5"
+  }
+}
